@@ -1,0 +1,24 @@
+# ENV CONFIG
+
+CartPoleEnv.force_steps = [0,100,150,200,250]
+CartPoleEnv.force_mag = 2.5
+CartPoleEnv.masscart = 0.94
+CartPoleEnv.masspole = 0.127
+CartPoleEnv.length = 0.1778
+CartPoleEnv.internal_tau = 0.01
+CartPoleEnv.tau = 0.02
+CartPoleEnv.x_threshold = 0.25
+
+CartPoleEnv.force_curve = [8.932395841146424e-05, 0.0150384108289069, 1.85933134747207]
+
+#change to 1 for no resistance
+CartPoleEnv.pole_resistance = -0.08669429
+
+#change to 0 for no resistance
+CartPoleEnv.cart_resistance = 0.9
+
+CartPoleEnv.action_in_state = False
+CartPoleEnv.discrete_state = False
+
+CartPoleEnv.swingup = False
+
