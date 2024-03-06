@@ -6,6 +6,7 @@ the Quanser IP-02 Inverted Cartpole hardware.
 ## Usage
 
 Place the `env_config.gin` inside your working directory.
+
 Call `pip install -e /relative_path_to_cartpole_realistic_dir` inside your working director.
 
 To use the environment within python, you only need three lines of code:
