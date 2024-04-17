@@ -1,7 +1,7 @@
 # High-Fidelity-Cartpole
 
 This gymnasium compatible environment implements a realistic Cartpole simulation of 
-the Quanser IP-02 Inverted Cartpole hardware.
+the Quanser IP-02 Inverted Pendulum hardware.
 
 ## Usage
 
