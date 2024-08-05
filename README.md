@@ -17,3 +17,17 @@ import tf_agents
 env = tf_agents.environments.suite_gym.load('cartpole-realistic')
 
 ```
+
+## Citation (BibTeX)
+
+```
+@inproceedings{bantel2024high,
+  title={High-Fidelity Simulation of a Cartpole for Sim-to-Real Deep Reinforcement Learning},
+  author={Bantel, Linus and Domanski, Peter and Pfl{\"u}ger, Dirk},
+  booktitle={2024 4th Interdisciplinary Conference on Electrics and Computer (INTCEC)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
+}
+
+```
